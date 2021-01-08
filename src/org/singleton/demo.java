@@ -15,8 +15,7 @@ public class demo {
 	}
 
 	public void sub() {
-		int d = c;
-		System.out.println(d);
+
 	}
 
 	public static void main(String[] args) {
